@@ -1,3 +1,4 @@
+![logo](https://github.com/di-co-der/di-co-der/blob/main/DR.png)
 <h1 align="center">Hi 👋, I'm Divyansh Raghav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
