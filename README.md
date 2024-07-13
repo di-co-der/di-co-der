@@ -1,6 +1,6 @@
 ![logo](https://github.com/di-co-der/di-co-der/blob/main/DR.png)
 <h1 align="center">Hello World 🙌, I'm Divyansh Raghav</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=di-co-der&label=Profile%20views&color=0e75b6&style=flat" alt="di-co-der" /> </p>
 
